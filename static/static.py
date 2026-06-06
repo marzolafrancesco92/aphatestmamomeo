@@ -1,6 +1,6 @@
 # static.py
 
-HTML = """While the man was hunting the deer, it ran through the forest."""
+HTML = """While the man was hunting the deer, it ran through the forest.
 <!DOCTYPE html>
 <html>
 <head>
